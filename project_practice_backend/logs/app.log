@@ -1,0 +1,234 @@
+2025-03-09 20:59:16,245 - database.db - INFO - Êý¾Ý¿â³õÊ¼»¯³É¹¦
+2025-03-09 20:59:16,275 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.31.239:5000
+2025-03-09 20:59:16,275 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-09 20:59:16,276 - werkzeug - INFO -  * Restarting with stat
+2025-03-09 20:59:17,021 - database.db - INFO - Êý¾Ý¿â³õÊ¼»¯³É¹¦
+2025-03-09 20:59:17,037 - werkzeug - WARNING -  * Debugger is active!
+2025-03-09 20:59:17,043 - werkzeug - INFO -  * Debugger PIN: 124-130-157
+2025-03-09 21:30:29,028 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 21:30:29] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-09 21:30:29,292 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 21:30:29] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-09 21:59:48,949 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 21:59:48] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-09 21:59:50,268 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 21:59:50] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-09 22:12:55,089 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 22:12:55] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-09 22:12:59,074 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 22:12:59] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-09 22:13:00,154 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 22:13:00] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-09 22:13:31,466 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 22:13:31] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-09 22:13:32,797 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 22:13:32] "OPTIONS /api/auth/profile HTTP/1.1" 200 -
+2025-03-09 22:13:32,802 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 22:13:32] "OPTIONS /api/task/statistics HTTP/1.1" 200 -
+2025-03-09 22:13:33,061 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 22:13:33] "[31m[1mGET /api/auth/profile HTTP/1.1[0m" 401 -
+2025-03-09 22:13:33,104 - api.task - WARNING - »ñÈ¡ÓÃ»§IDÊ§°Ü: Not enough segments
+2025-03-09 22:13:33,239 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 22:13:33] "GET /api/task/statistics HTTP/1.1" 200 -
+2025-03-09 22:14:28,962 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 22:14:28] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-09 22:14:30,217 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 22:14:30] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-09 22:15:55,941 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 22:15:55] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-09 22:16:00,606 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 22:16:00] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-09 22:17:15,218 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 22:17:15] "OPTIONS /api/auth/profile HTTP/1.1" 200 -
+2025-03-09 22:17:15,221 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 22:17:15] "OPTIONS /api/task/statistics HTTP/1.1" 200 -
+2025-03-09 22:17:15,485 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 22:17:15] "[31m[1mGET /api/auth/profile HTTP/1.1[0m" 401 -
+2025-03-09 22:17:15,531 - api.task - WARNING - »ñÈ¡ÓÃ»§IDÊ§°Ü: Not enough segments
+2025-03-09 22:17:15,543 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 22:17:15] "GET /api/task/statistics HTTP/1.1" 200 -
+2025-03-09 22:24:39,623 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 22:24:39] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-09 22:24:40,306 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 22:24:40] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-09 22:31:48,436 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 22:31:48] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2025-03-09 22:31:48,710 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 22:31:48] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2025-03-09 22:31:59,195 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 22:31:59] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2025-03-09 22:31:59,509 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 22:31:59] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2025-03-09 22:32:10,740 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 22:32:10] "OPTIONS /api/auth/register HTTP/1.1" 200 -
+2025-03-09 22:32:11,352 - api.auth - ERROR - ×¢²áÊ§°Ü: (pymysql.err.DataError) (1406, "Data too long for column 'password_hash' at row 1")
+[SQL: INSERT INTO users (username, email, password_hash, is_admin, created_at, last_login) VALUES (%(username)s, %(email)s, %(password_hash)s, %(is_admin)s, %(created_at)s, %(last_login)s)]
+[parameters: {'username': 'admin', 'email': '1368873518@qq.com', 'password_hash': 'scrypt:32768:8:1$QIanDnNYxh0rbuq1$595d1a7bbc7faa1f310176341fe2553b1862dcffe770d6be2ba3b8408d31a731a6de715bb905a30517fab8abe574bee86c2208c943a62236e6f65395dc801a6f', 'is_admin': 0, 'created_at': datetime.datetime(2025, 3, 9, 14, 32, 11, 326211), 'last_login': None}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2025-03-09 22:32:11,356 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 22:32:11] "[35m[1mPOST /api/auth/register HTTP/1.1[0m" 500 -
+2025-03-09 22:33:26,183 - werkzeug - INFO -  * Detected change in 'D:\\workspace_trae\\project3\\backend\\database\\models.py', reloading
+2025-03-09 22:33:26,850 - werkzeug - INFO -  * Restarting with stat
+2025-03-09 22:33:27,877 - database.db - INFO - Êý¾Ý¿â³õÊ¼»¯³É¹¦
+2025-03-09 22:33:27,897 - werkzeug - WARNING -  * Debugger is active!
+2025-03-09 22:33:27,903 - werkzeug - INFO -  * Debugger PIN: 124-130-157
+2025-03-09 22:34:17,362 - database.db - INFO - Êý¾Ý¿â³õÊ¼»¯³É¹¦
+2025-03-09 22:34:17,385 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.31.239:5000
+2025-03-09 22:34:17,385 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-09 22:34:17,386 - werkzeug - INFO -  * Restarting with stat
+2025-03-09 22:34:18,098 - database.db - INFO - Êý¾Ý¿â³õÊ¼»¯³É¹¦
+2025-03-09 22:34:18,124 - werkzeug - WARNING -  * Debugger is active!
+2025-03-09 22:34:18,128 - werkzeug - INFO -  * Debugger PIN: 124-130-157
+2025-03-09 22:34:58,910 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 22:34:58] "OPTIONS /api/auth/register HTTP/1.1" 200 -
+2025-03-09 22:34:59,226 - api.auth - ERROR - ×¢²áÊ§°Ü: (pymysql.err.DataError) (1406, "Data too long for column 'password_hash' at row 1")
+[SQL: INSERT INTO users (username, email, password_hash, is_admin, created_at, last_login) VALUES (%(username)s, %(email)s, %(password_hash)s, %(is_admin)s, %(created_at)s, %(last_login)s)]
+[parameters: {'username': 'admin', 'email': '1368873518@qq.com', 'password_hash': 'scrypt:32768:8:1$DD9OAeodtDaatr8i$20562f9661f1d46d8a2f382f7757591bdf64571999a5ff89d5e924f1020e9c16b10aa316377be4216e259af2e970e0905da8959f7cb5d998629a39666c34f5c0', 'is_admin': 0, 'created_at': datetime.datetime(2025, 3, 9, 14, 34, 59, 224445), 'last_login': None}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2025-03-09 22:34:59,227 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 22:34:59] "[35m[1mPOST /api/auth/register HTTP/1.1[0m" 500 -
+2025-03-09 22:39:32,752 - werkzeug - INFO -  * Detected change in 'D:\\workspace_trae\\project3\\backend\\database\\models.py', reloading
+2025-03-09 22:39:33,060 - werkzeug - INFO -  * Restarting with stat
+2025-03-09 22:39:33,901 - database.db - INFO - Êý¾Ý¿â³õÊ¼»¯³É¹¦
+2025-03-09 22:39:33,921 - werkzeug - WARNING -  * Debugger is active!
+2025-03-09 22:39:33,926 - werkzeug - INFO -  * Debugger PIN: 124-130-157
+2025-03-09 22:53:25,514 - werkzeug - INFO -  * Detected change in 'D:\\workspace_trae\\project3\\backend\\database\\models.py', reloading
+2025-03-09 22:53:25,644 - werkzeug - INFO -  * Restarting with stat
+2025-03-09 22:53:26,494 - database.db - INFO - Êý¾Ý¿â³õÊ¼»¯³É¹¦
+2025-03-09 22:53:26,514 - werkzeug - WARNING -  * Debugger is active!
+2025-03-09 22:53:26,519 - werkzeug - INFO -  * Debugger PIN: 124-130-157
+2025-03-09 22:57:01,463 - werkzeug - INFO -  * Detected change in 'D:\\workspace_trae\\project3\\backend\\database\\db.py', reloading
+2025-03-09 22:57:01,568 - werkzeug - INFO -  * Restarting with stat
+2025-03-09 22:57:02,353 - database.db - INFO - Êý¾Ý¿â³õÊ¼»¯³É¹¦
+2025-03-09 22:57:02,370 - werkzeug - WARNING -  * Debugger is active!
+2025-03-09 22:57:02,375 - werkzeug - INFO -  * Debugger PIN: 124-130-157
+2025-03-09 22:57:31,203 - werkzeug - INFO -  * Detected change in 'D:\\workspace_trae\\project3\\backend\\app.py', reloading
+2025-03-09 22:57:31,311 - werkzeug - INFO -  * Restarting with stat
+2025-03-09 22:57:32,086 - database.db - INFO - Êý¾Ý¿â³õÊ¼»¯³É¹¦
+2025-03-09 22:57:32,103 - werkzeug - WARNING -  * Debugger is active!
+2025-03-09 22:57:32,108 - werkzeug - INFO -  * Debugger PIN: 124-130-157
+2025-03-09 23:00:40,579 - database.db - INFO - Êý¾Ý¿â³õÊ¼»¯³É¹¦
+2025-03-09 23:00:40,585 - flask_migrate - ERROR - Error: Path doesn't exist: 'D:\\workspace_trae\\project3\\backend\\migrations'.  Please use the 'init' command to create a new scripts folder.
+2025-03-09 23:04:51,502 - database.db - INFO - Êý¾Ý¿â³õÊ¼»¯³É¹¦
+2025-03-09 23:05:26,771 - database.db - INFO - Êý¾Ý¿â³õÊ¼»¯³É¹¦
+2025-03-09 23:05:51,539 - database.db - INFO - Êý¾Ý¿â³õÊ¼»¯³É¹¦
+2025-03-09 23:09:12,165 - database.db - INFO - Êý¾Ý¿â³õÊ¼»¯³É¹¦
+2025-03-09 23:09:12,190 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.31.239:5000
+2025-03-09 23:09:12,190 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-09 23:09:12,191 - werkzeug - INFO -  * Restarting with stat
+2025-03-09 23:09:12,967 - database.db - INFO - Êý¾Ý¿â³õÊ¼»¯³É¹¦
+2025-03-09 23:09:12,987 - werkzeug - WARNING -  * Debugger is active!
+2025-03-09 23:09:12,991 - werkzeug - INFO -  * Debugger PIN: 124-130-157
+2025-03-09 23:09:31,103 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:09:31] "OPTIONS /api/auth/register HTTP/1.1" 200 -
+2025-03-09 23:09:31,655 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:09:31] "[35m[1mPOST /api/auth/register HTTP/1.1[0m" 201 -
+2025-03-09 23:09:48,241 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:09:48] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2025-03-09 23:09:48,783 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:09:48] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2025-03-09 23:09:55,043 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:09:55] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2025-03-09 23:09:55,608 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:09:55] "POST /api/auth/login HTTP/1.1" 200 -
+2025-03-09 23:10:13,084 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:10:13] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-09 23:10:13,999 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:10:13] "OPTIONS /api/auth/profile HTTP/1.1" 200 -
+2025-03-09 23:10:14,002 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:10:14] "OPTIONS /api/task/statistics HTTP/1.1" 200 -
+2025-03-09 23:10:14,280 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:10:14] "GET /api/auth/profile HTTP/1.1" 200 -
+2025-03-09 23:10:14,342 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:10:14] "GET /api/task/statistics HTTP/1.1" 200 -
+2025-03-09 23:10:23,315 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:10:23] "OPTIONS /api/auth/profile HTTP/1.1" 200 -
+2025-03-09 23:10:23,634 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:10:23] "OPTIONS /api/task/statistics HTTP/1.1" 200 -
+2025-03-09 23:10:23,639 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:10:23] "GET /api/auth/profile HTTP/1.1" 200 -
+2025-03-09 23:10:23,959 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:10:23] "GET /api/task/statistics HTTP/1.1" 200 -
+2025-03-09 23:19:49,713 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:19:49] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-09 23:20:31,463 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:20:31] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-09 23:20:35,327 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:20:35] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-09 23:22:22,810 - database.db - INFO - Êý¾Ý¿â³õÊ¼»¯³É¹¦
+2025-03-09 23:22:22,848 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.31.239:5000
+2025-03-09 23:22:22,848 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-09 23:22:22,849 - werkzeug - INFO -  * Restarting with stat
+2025-03-09 23:22:23,586 - database.db - INFO - Êý¾Ý¿â³õÊ¼»¯³É¹¦
+2025-03-09 23:22:23,605 - werkzeug - WARNING -  * Debugger is active!
+2025-03-09 23:22:23,610 - werkzeug - INFO -  * Debugger PIN: 124-130-157
+2025-03-09 23:22:29,251 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:22:29] "OPTIONS /api/auth/profile HTTP/1.1" 200 -
+2025-03-09 23:22:29,254 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:22:29] "OPTIONS /api/task/statistics HTTP/1.1" 200 -
+2025-03-09 23:22:29,630 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:22:29] "GET /api/auth/profile HTTP/1.1" 200 -
+2025-03-09 23:22:29,684 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:22:29] "GET /api/task/statistics HTTP/1.1" 200 -
+2025-03-09 23:22:41,593 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:22:41] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-09 23:22:50,788 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:22:50] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-09 23:23:18,484 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:23:18] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-09 23:23:21,739 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:23:21] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-09 23:23:41,214 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:23:41] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-09 23:23:46,751 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:23:46] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-09 23:24:12,782 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:24:12] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-09 23:24:17,203 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:24:17] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-09 23:24:30,219 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:24:30] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-09 23:24:31,197 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:24:31] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-09 23:24:46,202 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:24:46] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-09 23:24:47,674 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:24:47] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-09 23:25:02,777 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:25:02] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-09 23:25:05,672 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:25:05] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-09 23:25:05,922 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:25:05] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-09 23:25:42,529 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:25:42] "OPTIONS /api/auth/register HTTP/1.1" 200 -
+2025-03-09 23:25:42,916 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:25:42] "[35m[1mPOST /api/auth/register HTTP/1.1[0m" 201 -
+2025-03-09 23:25:53,784 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:25:53] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2025-03-09 23:25:54,164 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:25:54] "POST /api/auth/login HTTP/1.1" 200 -
+2025-03-09 23:25:59,327 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:25:59] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-09 23:26:00,846 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:26:00] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-09 23:26:01,417 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:26:01] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-09 23:26:04,058 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:26:04] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-09 23:26:04,790 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:26:04] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-09 23:26:05,680 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:26:05] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-09 23:26:05,944 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:26:05] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-09 23:26:06,213 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:26:06] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-09 23:26:07,094 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:26:07] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-09 23:26:12,164 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:26:12] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-09 23:27:26,832 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:27:26] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-09 23:27:45,354 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:27:45] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-09 23:27:49,648 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2025 23:27:49] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-10 22:51:54,759 - database.db - INFO - Êý¾Ý¿â³õÊ¼»¯³É¹¦
+2025-03-10 22:51:54,786 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.31.239:5000
+2025-03-10 22:51:54,786 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-10 22:51:54,788 - werkzeug - INFO -  * Restarting with stat
+2025-03-10 22:51:55,644 - database.db - INFO - Êý¾Ý¿â³õÊ¼»¯³É¹¦
+2025-03-10 22:51:55,669 - werkzeug - WARNING -  * Debugger is active!
+2025-03-10 22:51:55,674 - werkzeug - INFO -  * Debugger PIN: 124-130-157
+2025-03-10 22:52:51,265 - werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 22:52:51] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-10 22:57:21,349 - werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 22:57:21] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-10 22:57:23,187 - werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 22:57:23] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-10 23:02:00,104 - werkzeug - INFO -  * Detected change in 'D:\\workspace_trae\\project3\\backend\\api\\prediction.py', reloading
+2025-03-10 23:02:00,243 - werkzeug - INFO -  * Restarting with stat
+2025-03-10 23:02:01,132 - database.db - INFO - Êý¾Ý¿â³õÊ¼»¯³É¹¦
+2025-03-10 23:02:01,150 - werkzeug - WARNING -  * Debugger is active!
+2025-03-10 23:02:01,155 - werkzeug - INFO -  * Debugger PIN: 124-130-157
+2025-03-10 23:04:57,227 - werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 23:04:57] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-10 23:04:58,482 - werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 23:04:58] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-10 23:04:59,374 - werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 23:04:59] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-10 23:04:59,635 - werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 23:04:59] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-10 23:05:00,890 - werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 23:05:00] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-10 23:05:21,441 - werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 23:05:21] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-10 23:05:25,634 - werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 23:05:25] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-10 23:05:26,703 - werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 23:05:26] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-10 23:06:23,999 - werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 23:06:23] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-10 23:06:32,994 - werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 23:06:32] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-10 23:08:25,482 - werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 23:08:25] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-10 23:09:27,802 - werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 23:09:27] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-10 23:09:30,662 - werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 23:09:30] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-10 23:09:38,284 - werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 23:09:38] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-10 23:09:38,533 - werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 23:09:38] "[32mOPTIONS /api/model?page=1&per_page=10&type= HTTP/1.1[0m" 308 -
+2025-03-10 23:09:40,584 - werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 23:09:40] "[32mOPTIONS /api/dataset?page=1&per_page=10&category=&isPreset= HTTP/1.1[0m" 308 -
+2025-03-10 23:23:47,415 - werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 23:23:47] "[32mOPTIONS /api/task?page=1&per_page=10 HTTP/1.1[0m" 308 -
+2025-03-10 23:41:05,850 - database.db - INFO - Êý¾Ý¿â³õÊ¼»¯³É¹¦
+2025-03-10 23:41:15,030 - database.db - INFO - Êý¾Ý¿â³õÊ¼»¯³É¹¦
+2025-03-26 15:18:28,731 - database.db - ERROR - Êý¾Ý¿â³õÊ¼»¯Ê§°Ü: No module named 'pymysql'
+2025-03-26 15:20:04,896 - database.db - ERROR - Êý¾Ý¿â³õÊ¼»¯Ê§°Ü: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-03-27 18:12:36,497 - database.db - ERROR - Êý¾Ý¿â³õÊ¼»¯Ê§°Ü: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-03-27 18:56:24,614 - database.db - ERROR - Êý¾Ý¿â³õÊ¼»¯Ê§°Ü: (pymysql.err.OperationalError) (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-03-27 18:59:18,572 - database.db - ERROR - Êý¾Ý¿â³õÊ¼»¯Ê§°Ü: (pymysql.err.OperationalError) (1049, "Unknown database 'time_series_prediction'")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-03-27 19:02:20,071 - database.db - ERROR - Êý¾Ý¿â³õÊ¼»¯Ê§°Ü: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'JSON, \n\tcreated_at DATETIME, \n\tPRIMARY KEY (id)\n)' at line 6")
+[SQL: 
+CREATE TABLE models (
+	id INTEGER NOT NULL AUTO_INCREMENT, 
+	name VARCHAR(100) NOT NULL, 
+	description TEXT, 
+	model_type VARCHAR(50), 
+	default_params JSON, 
+	created_at DATETIME, 
+	PRIMARY KEY (id)
+)
+
+]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-03-27 20:37:21,293 - database.db - INFO - Êý¾Ý¿â³õÊ¼»¯³É¹¦
+2025-03-27 20:37:21,377 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.31.234:5000
+2025-03-27 20:37:21,377 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-27 20:37:21,381 - werkzeug - INFO -  * Restarting with stat
+2025-03-27 20:37:23,034 - database.db - INFO - Êý¾Ý¿â³õÊ¼»¯³É¹¦
+2025-03-27 20:37:23,077 - werkzeug - WARNING -  * Debugger is active!
+2025-03-27 20:37:23,089 - werkzeug - INFO -  * Debugger PIN: 445-681-399

@@ -1,0 +1,6 @@
+*__pycache__/
+project_practice_frontend/node_modules/
+project_practice_frontend/.vite/
+project_practice_frontend/*.lock
+*.vscode
+*.idea
